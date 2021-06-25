@@ -1,4 +1,4 @@
-### Hi there ~ 👋
+### Hi there ~~ 👋
 
 I'm new here. I majored 'Environmental Engineering' in South Korea.
 
