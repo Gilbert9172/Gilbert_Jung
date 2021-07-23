@@ -1,18 +1,18 @@
-### Hi there ~~ 👋
+# 자기소개
 
-I'm new here. I majored 'Environmental Engineering' in South Korea.
-
-Well.. I know that my major is way too far from Data science.
-
-But I'm still studying and will continue to do so in the future.
-
-My final goal is become a 'Machine Learning Engineer'
+안녕하십니까. 데이터엔지니어를 꿈꾸는 학생입니다.
 
 -------------------------------------------------------------------
 
-1. 통계분석 -> 많은 공부가 필요
-2. python (시각화) 
-3. SQL ( 꼭 필요한 것!) -> 정규화에 대한 공부 진행 
-4. git 사용 능숙해지기 
-5. 포트폴리오 꾸준히 작성하기
+# 데이터 엔지니어가 되기 위해서...
+
+1. Python
+2. SQL
+3. 
 -------------------------------------------------------------------
+
+# 어떻게 준비 해야 할까?
+
+1. 나만의 포트폴리오 작성
+2. SQLd 자격증 취득 
+3. 다양한 코딩 사이트에서 나의 코딩 능력 키우기
